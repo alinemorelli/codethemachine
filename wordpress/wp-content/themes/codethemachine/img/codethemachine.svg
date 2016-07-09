@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" sodipodi:docname="drawing.svg" inkscape:version="0.91 r13725" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="296.315px"
+	 height="259.898px" viewBox="139.829 259.898 296.315 259.898" enable-background="new 139.829 259.898 296.315 259.898"
+	 xml:space="preserve">
+<sodipodi:namedview  id="base" inkscape:window-maximized="1" inkscape:window-y="-8" inkscape:window-x="-8" inkscape:window-height="1017" inkscape:window-width="1920" inkscape:current-layer="layer2" inkscape:document-units="px" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:cy="578.30594" inkscape:cx="355.93584" inkscape:zoom="0.7" borderopacity="1.0" bordercolor="#666666" showgrid="false" pagecolor="#ffffff">
+	</sodipodi:namedview>
+<g id="layer1" sodipodi:insensitive="true" inkscape:groupmode="layer" inkscape:label="Camada 1" display="none">
+	<g id="g4200" display="inline" opacity="0.315">
+		
+			<rect id="rect3336" x="124.851" y="179.278" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 173.6417 605.0358)" fill="#C37676" stroke="#000000" width="174.554" height="174.554"/>
+		
+			<rect id="rect3336-6" x="171.371" y="181.654" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 251.3767 641.9862)" fill="none" stroke="#000000" width="174.554" height="174.555"/>
+		<g id="g4175" transform="matrix(0,1,-1,0,1081.3407,303.96322)">
+			
+				<rect id="rect3336-5" x="-1.624" y="658.566" transform="matrix(0.7071 0.7071 -0.7071 0.7071 552.4774 157.8863)" fill="#C37676" stroke="#000000" width="174.554" height="174.554"/>
+			
+				<rect id="rect3336-6-6" x="44.896" y="660.942" transform="matrix(0.7071 0.7071 -0.7071 0.7071 567.7841 125.6884)" fill="none" stroke="#000000" width="174.554" height="174.553"/>
+		</g>
+		<g id="g4175-4" transform="matrix(0,1,-1,0,1191.7632,304.84934)">
+			
+				<rect id="rect3336-5-2" x="-1.801" y="680.651" transform="matrix(0.7071 0.7071 -0.7071 0.7071 568.042 164.4801)" fill="#C37676" stroke="#000000" width="174.554" height="174.554"/>
+			
+				<rect id="rect3336-6-6-5" x="44.719" y="683.027" transform="matrix(0.7071 0.7071 -0.7071 0.7071 583.3484 132.2821)" fill="none" stroke="#000000" width="174.554" height="174.553"/>
+		</g>
+	</g>
+</g>
+<g id="layer2" inkscape:groupmode="layer" inkscape:label="Camada 2">
+	<g id="g4246" transform="translate(568.13647,-76.504846)">
+		<path id="path4217" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccc" fill="#FFFFFF" d="M-296.307,362.586
+			l-23.4-25l-108.6,112.428l139.886,146.287l124.285-124.287l-23.286-23.286l-100.856,100.857l-91.743-98.143L-296.307,362.586z"/>
+		<path id="path4223" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccc" fill="#FFFFFF" d="M-274.505,416.435
+			l40.891,41.164l39.324-39.642l40.33,41.681c7.019-7.315,15.213-14.52,21.969-22.075l-21.969-21.29l-39.069-41.332l-39.583,39.278
+			l-39.616-39.678l-74.322,73.856l19.844,20.237L-274.505,416.435z"/>
+		<path id="path4244" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" fill="#FFFFFF" d="M-284.97,463.171
+			l-24.244,24.244l-18.144-19.287l24.446-24.446L-284.97,463.171z"/>
+	</g>
+</g>
+</svg>
